@@ -8,5 +8,9 @@ namespace RPGPlayground.Lib
 {
     public class Class1
     {
+        public void TestMethod()
+        {
+
+        }
     }
 }

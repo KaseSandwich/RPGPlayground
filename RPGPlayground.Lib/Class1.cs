@@ -8,6 +8,7 @@ namespace RPGPlayground.Lib
 {
     public class Class1
     {
+        // Your method sucks
         public void TestMethod()
         {
 
